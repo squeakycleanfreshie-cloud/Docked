@@ -1,0 +1,24 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "a website for the docked YSWS. Its just a plain image at the moment, but more is to come. See it at www.docked.lol <img width=\"808\" height=\"455\" alt=\"Screenshot 2026-08-23 at 4 47 20 pm\" src=\"https://github.com/user-attachments/assets/52c24b0c-a44f-4970-9808-20c5b6e3cb55\" />",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squeakycleanfreshie-cloud/Docked.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squeakycleanfreshie-cloud/Docked/issues"
+  },
+  "homepage": "https://github.com/squeakycleanfreshie-cloud/Docked#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
